@@ -1,0 +1,12 @@
+Github commands
+
+
+   1  git init
+    2  ls
+    3  git init
+    4  ls
+    5  ls
+    6  git status : find areas of file
+    8  git config --global user.name "SiddheshwariBadgujar" : Configuration for sending files
+    9  git config --global user.email "vidya20902@gmail.com" :Configuration for sending files
+   10  history
